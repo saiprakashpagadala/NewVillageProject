@@ -1,0 +1,44 @@
+.box {
+  width: 80px;
+  color: white;
+  font-family: "roboto";
+  font-size: 14px;
+  font-weight: 300;
+}
+.box-1 {
+  padding: 8px;
+  background-color: brown;
+}
+.box-2 {
+  padding: 8px;
+  background-color: #f7d08f;
+}
+.box-3 {
+  padding: 8px;
+  background-color: burlywood;
+}
+.box-4 {
+  padding: 8px;
+  background-color: orangered;
+}
+.box-5 {
+  padding: 8px;
+  background-color: #f2ef85;
+  color: black;
+}
+
+.margin-top {
+  margin-top: 100px;
+  margin-right: 40px;
+}
+
+.stat-header {
+  margin-top: 10px;
+}
+
+.stats-arrangement {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-right: 10px;
+}

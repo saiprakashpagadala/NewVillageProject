@@ -1,0 +1,26 @@
+.app-container {
+    min-height: 100vh;
+    padding-right: 10px;
+    padding-bottom: 10px;
+  }
+  
+  .card-stat-styling {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+  
+  .image-ccb {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .img-charousel {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width:100%;
+    /* margin-left: 35px; */
+  }
+  
